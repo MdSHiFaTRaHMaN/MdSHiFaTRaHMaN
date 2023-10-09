@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Md SHiFaT RaHMaN</h1>
 <h3 align="center">I am a MERN Stack Web Developer in Bangladesh</h3>
 <div style="text-align:center;">
-    <img align="rigth" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif" width="400px" alt="Coding">
+    <img src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif" width="600px" alt="Coding">
 </div>
 
 
