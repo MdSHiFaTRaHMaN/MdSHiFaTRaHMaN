@@ -2,7 +2,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Md SHiFaT RaHMaN</h1>
 <h3 align="center">I am a MERN Stack Web Developer in Bangladesh</h3>
-<img align="rigth" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif" width="400px" alt="Coding">
+<img align="center" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif" width="400px" alt="Coding">
 
 
 - 🔭 I’m currently working on [My Profile Card](https://6506030691bdff47cacc5248--meek-fudge-388ebc.netlify.app/)
