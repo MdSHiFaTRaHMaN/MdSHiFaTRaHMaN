@@ -32,11 +32,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-[![Al Card](https://6506030691bdff47cacc5248--meek-fudge-388ebc.netlify.app/)
-<p align="left">
-  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
 <br/>
 <hr/>
 <br/>
