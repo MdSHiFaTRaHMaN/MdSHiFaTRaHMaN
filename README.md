@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Md SHiFaT RaHMaN</h1>
 <h3 align="center">I am a MERN Stack Web Developer in Bangladesh</h3>
 <div style="text-align:center;">
-    <img style=" margin-left: 540px;" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif" width="600px" alt="Coding">
+    <p align="center">
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+MERN+Full+Stack+Software+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
+</p>
 </div>
 
 
