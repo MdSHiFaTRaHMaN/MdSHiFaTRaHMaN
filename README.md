@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Md SHiFaT RaHMaN</h1>
 <div style="text-align:center;">
     <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+MERN+Stack+Web+Developer;React%20|%20NodeJS%20|%20JavaScript%20|%20ExpressJS%20|%20FireBase&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+MERN+Stack+Web+Developer;React%20|%20NodeJS%20|%20JavaScript%20|%20ExpressJS%20|%20FireBase&center=true&width=600&height=50"></a>
 </p>
 </div>
 
