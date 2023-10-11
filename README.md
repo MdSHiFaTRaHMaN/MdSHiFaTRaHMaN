@@ -35,20 +35,5 @@
 <br/>
 <hr/>
 <br/>
-
-<p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
-  </a>
-</p>
-
-<a> 
-
-
-![s](https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![4-productive-time](https://github.com/MdSHiFaTRaHMaN/MdSHiFaTRaHMaN/assets/138752907/fdf4c1c2-e630-42b0-ab7d-29b55e6f7d37)
+![3-stats](https://github.com/MdSHiFaTRaHMaN/MdSHiFaTRaHMaN/assets/138752907/d1e6b261-4ec6-491e-98d3-50d9c13d1047)
