@@ -35,6 +35,3 @@
 <br/>
 <hr/>
 <br/>
-![](./0-profile-details.svg)
-![4-productive-time](https://github.com/MdSHiFaTRaHMaN/MdSHiFaTRaHMaN/assets/138752907/fdf4c1c2-e630-42b0-ab7d-29b55e6f7d37)
-![3-stats](https://github.com/MdSHiFaTRaHMaN/MdSHiFaTRaHMaN/assets/138752907/d1e6b261-4ec6-491e-98d3-50d9c13d1047)
