@@ -28,8 +28,4 @@
 - 📄 Know about my experiences [https://mdshifatrahman.github.io/PortFolio-by-Shifat/](https://mdshifatrahman.github.io/PortFolio-by-Shifat/)
 
 - ⚡ Fun fact **I think I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
