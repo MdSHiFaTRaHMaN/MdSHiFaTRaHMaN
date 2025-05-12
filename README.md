@@ -6,25 +6,14 @@
 </p>
 </div>
 
+I am a MERN Stack Web Developer. I love to work with dedication, and I always try to get people's love through my work. My strong suit is Front End Web Development with React Js, HTML & CSS, JavaScript, Bootstrap 5, Tailwind, DaisyUi, and Socket.
 
-
-- 🔭 I’m currently working on [My Profile Card](https://6506030691bdff47cacc5248--meek-fudge-388ebc.netlify.app/)
+I love to design through coding. I like to do neat and clean code, which makes me happy. That is why I love my work so much. I have always believed in upgrading myself through the learning process. That is why I like to learn something new and adapt to it. And that's why I think I'll never grow old in my working life!
 
 - 🌱 I’m currently learning **Frontend, Programing Hero**
 
-- 👯 I’m looking to collaborate on [Fashion House](https://mdshifatrahman.github.io/myChoice/)
-
-- 🤝 I’m looking for help with [YouTube](https://dazzling-jelly-dda3c0.netlify.app)
-
-- 👨‍💻 All of my projects are available at [https://mdshifatrahman.github.io/PortFolio-by-Shifat/](https://mdshifatrahman.github.io/PortFolio-by-Shifat/)
-
-- 📝 I regularly write articles on [https://mdshifatrahman.github.io/PortFolio-by-Shifat/](https://mdshifatrahman.github.io/PortFolio-by-Shifat/)
-
 - 💬 Ask me about **React, Node JS**
 
-- 📫 How to reach me **mdshifatrahman@gmail.com**
-
-- 📄 Know about my experiences [https://mdshifatrahman.github.io/PortFolio-by-Shifat/](https://mdshifatrahman.github.io/PortFolio-by-Shifat/)
-
+- 📫 How to reach me **shifatrahmanwebdev@gmail.com**
+s
 - ⚡ Fun fact **I think I am Funny**
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
