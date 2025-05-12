@@ -10,3 +10,12 @@ I am a MERN Stack Web Developer. I love to work with dedication, and I always tr
 
 I love to design through coding. I like to do neat and clean code, which makes me happy. That is why I love my work so much. I have always believed in upgrading myself through the learning process. That is why I like to learn something new and adapt to it. And that's why I think I'll never grow old in my working life!
 
+So if we can work together and do something great, then feel free to give me a knock!
+
+✉ shifatrahmanwebdev@gmail.com
+
+☏: +88 01724683220
+
+🏠Dhaka, Bangladesh
+
+Skills: JavaScript, React.js, Next.js, Node.js, Express.js, MongoDB, Socket IO, HTML5, Tailwind CSS, Bootstrap-5, CSS3 🚀🚀
